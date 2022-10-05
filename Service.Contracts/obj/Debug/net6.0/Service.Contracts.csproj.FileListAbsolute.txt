@@ -1,0 +1,15 @@
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Service.Contracts.deps.json
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfo.cs
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.dll
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CopyComplete
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Shared.dll
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Shared.pdb
