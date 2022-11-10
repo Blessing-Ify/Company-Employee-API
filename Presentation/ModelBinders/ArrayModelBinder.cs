@@ -11,6 +11,8 @@ namespace Presentation.ModelBinders
 {
     public class ArrayModelBinder : IModelBinder
     {
+        //we do this because our API can’t bind the string type parameter to the
+        // IEnumerable<Guid> argument in the GetCompanyCollection action
         public Task BindModelAsync(ModelBindingContext bindingContext)
         {
             if (!bindingContext.ModelMetadata.IsEnumerableType)

@@ -13,3 +13,5 @@ C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj
 C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CopyComplete
 C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Shared.dll
 C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Shared.pdb
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Entities.pdb
