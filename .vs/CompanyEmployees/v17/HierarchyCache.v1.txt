@@ -1,0 +1,320 @@
+﻿++Solution 'CompanyEmployees' ‎(9 of 9 projects)
+i:{00000000-0000-0000-0000-000000000000}:CompanyEmployees.sln
+++CompanyEmployees
+i:{00000000-0000-0000-0000-000000000000}:CompanyEmployees
+++Connected Services 
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:>1031
+++Dependencies
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:>1030
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:>643
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:>776
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:>645
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:>687
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:>644
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:>646
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:>869
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:>642
+++Properties
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\properties\
+++ActionFilters
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\actionfilters\
+++ValidationFilterAttribute.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\actionfilters\validationfilterattribute.cs
+++ContextFactory
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\contextfactory\
+++Extensions
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\extensions\
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\extensions\
+++ExceptionMiddlewareExtensions.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\extensions\exceptionmiddlewareextensions.cs
+++ServiceExtensions.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\extensions\serviceextensions.cs
+++SwaggerExtention.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\extensions\swaggerextention.cs
+++internal_logs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\internal_logs\
+++Migrations
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\migrations\
+++appsettings.json
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\appsettings.json
+++CsvOutputFormatter.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\csvoutputformatter.cs
+++MappingProfile.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\mappingprofile.cs
+++nlog.config.txt
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\nlog.config.txt
+++Program.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\program.cs
+++No service dependencies discovered
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:>1032
+++Analyzers
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:analyzers
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:analyzers
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:analyzers
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:analyzers
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:analyzers
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:analyzers
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:analyzers
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:analyzers
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:analyzers
+++Frameworks
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:frameworks
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:frameworks
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:frameworks
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:frameworks
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:frameworks
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:frameworks
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:frameworks
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:frameworks
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:frameworks
+++Packages
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:packages
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:packages
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:packages
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:packages
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:packages
+++Projects
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:projects
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:projects
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:projects
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:projects
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:projects
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:projects
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:projects
+++launchSettings.json
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\properties\launchsettings.json
+++RepositoryContextFactory.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\contextfactory\repositorycontextfactory.cs
+++internallog.txt
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\internal_logs\internallog.txt
+++20220923053845_DatabaseCreation.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\migrations\20220923053845_databasecreation.cs
+++20220923055552_InitialData.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\migrations\20220923055552_initialdata.cs
+++RepositoryContextModelSnapshot.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\migrations\repositorycontextmodelsnapshot.cs
+++appsettings.Development.json
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\appsettings.development.json
+++appsettings.Production.json
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\appsettings.production.json
+++Microsoft.AspNetCore.Analyzers
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\microsoft.netcore.app
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\users\decagon\documents\internshipwork\companyemployees\contracts\microsoft.netcore.app
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\microsoft.netcore.app
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\microsoft.netcore.app
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:c:\users\decagon\documents\internshipwork\companyemployees\service.contracts\microsoft.netcore.app
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:c:\users\decagon\documents\internshipwork\companyemployees\service\microsoft.netcore.app
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\users\decagon\documents\internshipwork\companyemployees\presentation\microsoft.netcore.app
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\microsoft.netcore.app
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:c:\users\decagon\documents\internshipwork\companyemployees\loggerservice\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.9)
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:>1050
+++Microsoft.EntityFrameworkCore.Tools (6.0.9)
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:>1053
+++Swashbuckle.AspNetCore (6.4.0)
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:>1051
+++Swashbuckle.AspNetCore.Swagger (6.4.0)
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:>1052
+++LoggerService
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\loggerservice\loggerservice.csproj
+i:{00000000-0000-0000-0000-000000000000}:LoggerService
+++Presentation
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\presentation\presentation.csproj
+i:{00000000-0000-0000-0000-000000000000}:Presentation
+++Repository
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\repository\repository.csproj
+i:{00000000-0000-0000-0000-000000000000}:Repository
+++Service
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\service\service.csproj
+i:{00000000-0000-0000-0000-000000000000}:Service
+++20220923053845_DatabaseCreation.Designer.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\migrations\20220923053845_databasecreation.designer.cs
+++20220923055552_InitialData.Designer.cs
+i:{55d481c1-d420-4c46-a16c-a54ff7464b62}:c:\users\decagon\documents\internshipwork\companyemployees\companyemployees\migrations\20220923055552_initialdata.designer.cs
+++Contracts
+i:{00000000-0000-0000-0000-000000000000}:Contracts
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\contracts\contracts.csproj
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:c:\users\decagon\documents\internshipwork\companyemployees\contracts\bin\debug\net6.0\contracts.dll
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:c:\users\decagon\documents\internshipwork\companyemployees\contracts\bin\debug\net6.0\contracts.dll
+++ICompanyRepository.cs
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\users\decagon\documents\internshipwork\companyemployees\contracts\icompanyrepository.cs
+++IEmployeeRepository.cs
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\users\decagon\documents\internshipwork\companyemployees\contracts\iemployeerepository.cs
+++ILoggerManager.cs
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\users\decagon\documents\internshipwork\companyemployees\contracts\iloggermanager.cs
+++IRepositoryBase.cs
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\users\decagon\documents\internshipwork\companyemployees\contracts\irepositorybase.cs
+++IRepositoryManager.cs
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\users\decagon\documents\internshipwork\companyemployees\contracts\irepositorymanager.cs
+++Entities
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\users\decagon\documents\internshipwork\companyemployees\entities\bin\debug\net6.0\entities.dll
+i:{00000000-0000-0000-0000-000000000000}:Entities
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\entities\entities.csproj
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:c:\users\decagon\documents\internshipwork\companyemployees\entities\bin\debug\net6.0\entities.dll
+++Shared
+i:{ead127e2-a8e3-4409-8200-ac23039b72fd}:c:\users\decagon\documents\internshipwork\companyemployees\shared\bin\debug\net6.0\shared.dll
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:c:\users\decagon\documents\internshipwork\companyemployees\shared\bin\debug\net6.0\shared.dll
+i:{00000000-0000-0000-0000-000000000000}:Shared
+++ErrorModel
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\errormodel\
+++Exceptions
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\exceptions\
+++BadRequestException.cs
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\exceptions\badrequestexception.cs
+++CompanyNotFoundException.cs
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\exceptions\companynotfoundexception.cs
+++EmployeeNotFoundException.cs
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\exceptions\employeenotfoundexception.cs
+++MaxAgeRangeBadRequestException.cs
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\exceptions\maxagerangebadrequestexception.cs
+++NotFoundException.cs
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\exceptions\notfoundexception.cs
+++Models
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\models\
+++Company.cs
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\models\company.cs
+++Employee.cs
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\models\employee.cs
+++ErrorDetails.cs
+i:{e593f0ff-1c6f-49fb-bed0-193c68c3076f}:c:\users\decagon\documents\internshipwork\companyemployees\entities\errormodel\errordetails.cs
+++Configuration
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\configuration\
+++RepositoryEmployeeExtensions.cs
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\extensions\repositoryemployeeextensions.cs
+++CompanyRepository.cs
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\companyrepository.cs
+++EmployeeRepository.cs
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\employeerepository.cs
+++RepositoryBase.cs
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\repositorybase.cs
+++RepositoryContext.cs
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\repositorycontext.cs
+++RepositoryManager.cs
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\repositorymanager.cs
+++CompanyConfiguration.cs
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\configuration\companyconfiguration.cs
+++EmployeeConfiguration.cs
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:c:\users\decagon\documents\internshipwork\companyemployees\repository\configuration\employeeconfiguration.cs
+++Microsoft.EntityFrameworkCore (6.0.9)
+i:{02bb91ae-fcb1-4bda-8d3c-d1e037173ef7}:>1069
+++Service.Contracts
+i:{00000000-0000-0000-0000-000000000000}:Service.Contracts
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:c:\users\decagon\documents\internshipwork\companyemployees\service.contracts\bin\debug\net6.0\service.contracts.dll
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\users\decagon\documents\internshipwork\companyemployees\service.contracts\bin\debug\net6.0\service.contracts.dll
+++ICompanyService.cs
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:c:\users\decagon\documents\internshipwork\companyemployees\service.contracts\icompanyservice.cs
+++IEmployeeService.cs
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:c:\users\decagon\documents\internshipwork\companyemployees\service.contracts\iemployeeservice.cs
+++IServiceManager.cs
+i:{28b7576b-20ac-4477-b2f7-e950291fb621}:c:\users\decagon\documents\internshipwork\companyemployees\service.contracts\iservicemanager.cs
+++CompanyService.cs
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:c:\users\decagon\documents\internshipwork\companyemployees\service\companyservice.cs
+++EmployeeService.cs
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:c:\users\decagon\documents\internshipwork\companyemployees\service\employeeservice.cs
+++ServiceManager.cs
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:c:\users\decagon\documents\internshipwork\companyemployees\service\servicemanager.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{c8108121-65c7-4841-ab65-a4aaf9d28565}:>1123
+++Controllers
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\users\decagon\documents\internshipwork\companyemployees\presentation\controllers\
+++ModelBinders
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\users\decagon\documents\internshipwork\companyemployees\presentation\modelbinders\
+++AssemblyReference.cs
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\users\decagon\documents\internshipwork\companyemployees\presentation\assemblyreference.cs
+++CompaniesController.cs
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\users\decagon\documents\internshipwork\companyemployees\presentation\controllers\companiescontroller.cs
+++EmployeesController.cs
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\users\decagon\documents\internshipwork\companyemployees\presentation\controllers\employeescontroller.cs
+++ArrayModelBinder.cs
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:c:\users\decagon\documents\internshipwork\companyemployees\presentation\modelbinders\arraymodelbinder.cs
+++Microsoft.AspNetCore.JsonPatch (6.0.10)
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:>1101
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:>1104
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.10)
+i:{16e8ef3e-3671-4488-ba54-15de1d5b5dc1}:>1102
+++DataTransferObjects
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\datatransferobjects\
+++RequestFeatures
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\requestfeatures\
+++MetaData.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\metadata.cs
+++PagedList.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\pagedlist.cs
+++CompanyDto.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\datatransferobjects\companydto.cs
+++CompanyForCreationDto.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\datatransferobjects\companyforcreationdto.cs
+++CompanyForUpdateDto.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\datatransferobjects\companyforupdatedto.cs
+++EmployeeDto.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\datatransferobjects\employeedto.cs
+++EmployeeForCreationDto.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\datatransferobjects\employeeforcreationdto.cs
+++EmployeeForManipulationDto.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\datatransferobjects\employeeformanipulationdto.cs
+++EmployeeForUpdateDto.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\datatransferobjects\employeeforupdatedto.cs
+++EmployeeParameters.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\requestfeatures\employeeparameters.cs
+++RequestParameters.cs
+i:{487073d4-d6b8-462d-bfd7-63be271e5c61}:c:\users\decagon\documents\internshipwork\companyemployees\shared\requestfeatures\requestparameters.cs
+++LoggerManager.cs
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:c:\users\decagon\documents\internshipwork\companyemployees\loggerservice\loggermanager.cs
+++NLog.Extensions.Logging (5.0.4)
+i:{e1e1b431-7be4-4da4-a7dd-c0759cfa69e6}:>1093

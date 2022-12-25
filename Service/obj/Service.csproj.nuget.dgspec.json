@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\Decagon\\Documents\\InternshipWork\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\Decagon\\Documents\\InternshipWork\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\Decagon\\Documents\\InternshipWork\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\Documents\\InternshipWork\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }

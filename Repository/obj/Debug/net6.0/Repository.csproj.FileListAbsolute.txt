@@ -15,3 +15,5 @@ C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Repository\obj\Debug\
 C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Repository\obj\Debug\net6.0\ref\Repository.dll
 C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.dll
 C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Repository\bin\Debug\net6.0\Shared.dll
+C:\Users\Decagon\Documents\InternshipWork\CompanyEmployees\Repository\bin\Debug\net6.0\Shared.pdb
